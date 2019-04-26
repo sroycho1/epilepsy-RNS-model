@@ -1,8 +1,16 @@
 %% Line Length Detection Tool
 
-function hit = lineLength(ecog,dt)
+function hit = lineLength(ecog,dt,prevLen)
 
 % dy -> diff(ecog)
 % dx -> dt
-% d
-len = sqrt( diff(ecog).^2 + dt^2 ); %pythagorean distance
+% dLen -> c^2 = a^2 + b^2
+dLen = sqrt( diff(ecog).^2 + dt^2 ); %pythagorean distance
+
+totLen = sum(dLen);
+
+if totLen > 1.5*preLen
+    hit = 1;
+else
+    
+
