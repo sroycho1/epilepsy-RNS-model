@@ -3,6 +3,7 @@
 ## Andrew
 * line length detection tool
 * total area detection tool
+  * v1 complete
 
 ## Ali
 * simulate ECoG data
