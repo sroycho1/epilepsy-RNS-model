@@ -2,6 +2,7 @@
 % hit = 1 -> seizure detected
 % hit = 0 -> no seizure
 % average will weight most recent ecog data more heavily
+% ecog should be a short snippet of the total ecog data
 
 function [hit, prevLen] = lineLength(ecog,dt,prevLen)
 
