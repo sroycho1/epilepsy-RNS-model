@@ -13,6 +13,7 @@
 
 
 ## Unassigned
+* find ECoG data for seizures
 * frequency/amplitude detection tool
 * GUI design
 * stimulation generation
