@@ -4,6 +4,7 @@
 * line length detection tool
   * v1 complete
 * total area detection tool
+  * v1 complete
 
 ## Ali
 * simulate ECoG data
