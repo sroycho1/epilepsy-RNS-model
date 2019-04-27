@@ -3,8 +3,11 @@
 ## Andrew
 * line length detection tool
   * v1 complete
+  * working on chb01_03.edf at ~100s lag
 * total area detection tool
   * v1 complete
+* found dataset to use
+  * http://www.physionet.org/pn6/chbmit/
 
 ## Ali
 * simulate ECoG data
@@ -14,7 +17,7 @@
 
 
 ## Unassigned
-* find ECoG data for seizures
+* ~~find ECoG data for seizures~~
 * frequency/amplitude detection tool
 * GUI design
 * stimulation generation
