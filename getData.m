@@ -1,0 +1,1 @@
+[hdr, record] = edfread('chb01_01.edf');

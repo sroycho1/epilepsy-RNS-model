@@ -1,3 +1,5 @@
+%[hdr, record] = edfread('chb01_01.edf');
+
 f = 256;
 dt = 1/f;
 x = 0:1/f:(1/f)*(length(record)-1);
