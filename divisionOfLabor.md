@@ -14,13 +14,12 @@
 * explore Simulink strategy
 
 ## Shayan
-
+* GUI design
+* stimulation generation
 
 ## Unassigned
 * ~~find ECoG data for seizures~~
 * frequency/amplitude detection tool
-* GUI design
-* stimulation generation
 * setting stimulation parameters based on user input
   * similar to how a clinician would increase values and set nominal settings to prevent false positive detections
 * measure false positives, true positives, and false negatives
